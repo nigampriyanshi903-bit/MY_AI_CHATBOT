@@ -33,3 +33,6 @@ pdfminer.six==20251107
 python-dotenv==1.2.1
 requests==2.32.5
 numpy==2.2.6
+
+gradio
+requests
