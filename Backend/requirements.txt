@@ -83,6 +83,8 @@ numpy==2.2.6
 oauthlib==3.3.1
 onnxruntime==1.23.2
 openai==2.8.1
+openai==2.8.1
+pydub
 opentelemetry-api==1.38.0
 opentelemetry-exporter-otlp-proto-common==1.38.0
 opentelemetry-exporter-otlp-proto-grpc==1.38.0
