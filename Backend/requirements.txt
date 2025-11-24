@@ -21,3 +21,5 @@ requests
 python-dotenv
 
 streamlit
+
+gunicorn
